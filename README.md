@@ -1,7 +1,7 @@
-GeoMR
+GeoCloud
 =====
 
 Cloud Computing and Storage project
 
 Comment 2
-Edited in Egit in Eclipse.
+Edited in EGit in Eclipse.
